@@ -1,4 +1,4 @@
-/*Première partie création du nouveau commantaire*/
+/*Première partie création du nouveau commentaire*/
 let inputFirstName = document.querySelector("#first-name");
 let inputLastName = document.querySelector("#last-name");
 let inputMessage = document.getElementById("message");
